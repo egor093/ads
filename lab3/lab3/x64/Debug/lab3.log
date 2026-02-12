@@ -1,0 +1,7 @@
+﻿  lab3.cpp
+E:\study\asd\lab3\lab3\lab3.cpp(77,54): warning C4101: time_fast: неиспользованная локальная переменная
+E:\study\asd\lab3\lab3\lab3.cpp(77,12): warning C4101: time_bubble: неиспользованная локальная переменная
+E:\study\asd\lab3\lab3\lab3.cpp(77,25): warning C4101: time_shaker: неиспользованная локальная переменная
+E:\study\asd\lab3\lab3\lab3.cpp(77,38): warning C4101: time_selection: неиспользованная локальная переменная
+E:\study\asd\lab3\lab3\lab3.cpp(75,10): warning C4101: n: неиспользованная локальная переменная
+  lab3.vcxproj -> E:\study\asd\lab3\x64\Debug\lab3.exe
