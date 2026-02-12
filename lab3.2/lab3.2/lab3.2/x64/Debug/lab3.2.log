@@ -1,0 +1,4 @@
+﻿  lab3.2.cpp
+E:\study\asd\lab3.2\lab3.2\lab3.2.cpp(9,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\study\asd\lab3.2\lab3.2\lab3.2.cpp(12,6): warning C4101: start: неиспользованная локальная переменная
+  lab3.2.vcxproj -> E:\study\asd\lab3.2\lab3.2\x64\Debug\lab3.2.exe
