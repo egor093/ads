@@ -1,0 +1,6 @@
+﻿  lab10.cpp
+E:\study\asd\lab10\lab10\lab10.cpp(14,22): warning C4305: инициализация: усечение из "double" в "float"
+E:\study\asd\lab10\lab10\lab10.cpp(56,31): warning C4305: инициализация: усечение из "double" в "const float"
+E:\study\asd\lab10\lab10\lab10.cpp(68,32): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+E:\study\asd\lab10\lab10\lab10.cpp(169,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab10.vcxproj -> E:\study\asd\lab10\x64\Debug\lab10.exe
